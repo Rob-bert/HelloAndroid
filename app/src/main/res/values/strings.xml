@@ -1,0 +1,7 @@
+<resources>
+    <string name="address">2465 Latham St \nMountain View, CA 94043</string>
+    <string name="link">www.udacity.com</string>
+    <string name="phone">650-555-5555</string>
+    <string name="app_name">HelloAndroid</string>
+
+</resources>
